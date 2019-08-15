@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Width and height of the main logo of the app -->
+    <dimen name="main_logo_width">300dp</dimen>
+    <dimen name="main_logo_height">150dp</dimen>
+
+    <!--Width and height of the OTP, user Email_id and user password EditText of the app -->
+    <dimen name="edit_text_width">310dp</dimen>
+    <dimen name="edit_text_height">44dp</dimen>
+
+    <!--Login, sign up Button width -->
+    <dimen name="button_width">320dp</dimen>
+
+    <!--Login, Sign up Button Left, Start, Top, End and Right margin value -->
+    <dimen name="button_margin">8dp</dimen>
+
+    <!--Login Button FontSize -->
+    <dimen name="login_button_font_size">18sp</dimen>
+
+    <!--user's mailId and password EditText's margin -->
+    <dimen name="user_credential_margin">8dp</dimen>
+</resources>

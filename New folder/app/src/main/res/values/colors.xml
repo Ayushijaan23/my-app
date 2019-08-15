@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--Background color for the OTP EditText -->
+    <color name="otp_edit_text_bg_color">#F7F8FA</color>
+
+    <!--Login, Sign up Button Background Color -->
+    <color name="button_bg_color">#139ED1</color>
+</resources>

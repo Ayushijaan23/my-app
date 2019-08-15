@@ -1,0 +1,44 @@
+<resources>
+
+    <!--Name of the app -->
+    <string name="app_name">PhaseTwoProject</string>
+
+    <!--OTP EditText hint -->
+    <string name="otp_edit_text_hint">OTP</string>
+
+    <!--Login Button Text -->
+    <string name="login_button_text">Login</string>
+
+    <!--User Email Id EditText's hint value -->
+    <string name="email_id_hint">Email_id</string>
+
+    <!--User password EditText's hint value -->
+    <string name="user_pwd_hint">password</string>
+
+    <!--Existing user TextView text value -->
+    <string name="new_user_text_view_text">New User</string>
+
+    <!--Sign Up activity's label -->
+    <string name="sign_up_activity_label">SignUp Activity</string>
+
+    <!--Login activity's label -->
+    <string name="login_activity_label">Login Activity</string>
+
+    <!--Sign Up Button text value -->
+    <string name="sign_up_button_text">Sign Up</string>
+
+    <!--menu Settings Title value -->
+    <string name="menu_settings_title">Settings</string>
+
+    <!--menu Logout Title value -->
+    <string name="menu_logout_title">Logout</string>
+
+    <!--menu Notification Title value -->
+    <string name="menu_notification_title">Notification</string>
+
+    <!-- UserProfile Activity's label value-->
+    <string name="user_profile_activity_label">User Profile</string>
+
+    <!-- PersonalDetails Activity's label value-->
+    <string name="personal_details_activity_label">Add New Data</string>
+</resources>
